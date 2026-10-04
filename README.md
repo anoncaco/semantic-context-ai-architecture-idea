@@ -1,0 +1,1 @@
+# semantic-context-ai-architecture-idea
